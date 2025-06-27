@@ -1,5 +1,7 @@
 # OmniMind Mobile: The Hyper-Personalized, Privacy-Centric AI Assistant
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bee023536ff54de0ac4f9bf7df869de3)](https://app.codacy.com/gh/HeartlessVeteran2/Omni-?utm_source=github.com&utm_medium=referral&utm_content=HeartlessVeteran2/Omni-&utm_campaign=Badge_Grade)
+
 OmniMind is an innovative intelligent digital assistant designed to provide **hyper-personalization** and **automation** for individual users [1-3]. Its core innovation lies in its **mobile-first, privacy-centric architecture**, where its intelligence is cultivated in the cloud but primarily operates on the user's device [1, 3-5].
 
 ## Project Overview
